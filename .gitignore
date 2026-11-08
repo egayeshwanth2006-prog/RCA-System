@@ -1,0 +1,42 @@
+# Environment variables
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+dist-ssr/
+*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded private documents & uploads
+uploads/
+private/
+*.pdf
+*.log
+
+# Build artifacts & OS
+.DS_Store
+Thumbs.db
+build/
+.idea/
+.vscode/
