@@ -162,3 +162,4 @@ OK
 ## 🛡️ Regulatory & Human Review Notice
 
 In compliance with **ICH Q7 Section 2.5** and **EU GMP Annex 16**, this application explicitly treats all AI outputs as recommendations. Final root cause determination, batch disposition, and CAPA sign-off **must be performed and electronically confirmed by a Qualified Person**.
+# RCA-System
